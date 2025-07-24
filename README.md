@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Youssef Elbaz</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5e17eb&center=true&vCenter=true&width=600&lines=Front-end+Developer;Web+Developer;Always+Learning" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5e17eb&center=true&vCenter=true&width=600&lines=Front-end+Developer;Web+Developer;Crafting+Clean,+Responsive+UIs;Always+Learning+And+Improving;" alt="Typing SVG">
 </div>
 
 
@@ -20,11 +20,13 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/_FRONT_END-DEVELOPER-5E17EB?style=for-the-badge&labelColor=000000" alt="Full Stack Developer Badge" />
+  <img src="https://img.shields.io/badge/_FRONT_END-DEVELOPER-5E17EB?style=for-the-badge&labelColor=000000" alt="Front-end Developer Badge" />
 </p>
 
-I’m a passionate front-end developer pursuing a degree in **Digital Development** at **EST**.  
-I build modern, efficient, and well-structured web applications using best practices.
+Hello There! 👋  
+I'm a passionate **Front-End Developer** from **Morocco** 🇲🇦, focused on crafting clean, responsive, and interactive user interfaces. I specialize in building modern web experiences using **React**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. I love turning complex problems into elegant, accessible UI solutions, and I’m constantly learning and experimenting with new web technologies.
+
+Whether it’s designing pixel-perfect layouts, optimizing performance, or animating delightful user flows. I enjoy every step of the front-end journey. Let’s build something awesome!
 
 ---
 
@@ -56,12 +58,8 @@ I build modern, efficient, and well-structured web applications using best pract
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elbaz-youssef&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5e17eb&icon_color=5e17eb&text_color=FFFFFF" width="100%" alt="GitHub Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbaz-youssef&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5e17eb&text_color=FFFFFF" width="48%" alt="Top Languages">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elbaz-youssef&theme=radical&hide_border=true&bg_color=0D1117&color=5e17eb&line=5e17eb&point=FFFFFF" width="48%" alt="Activity Graph">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbaz-youssef&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5e17eb&text_color=FFFFFF" width="48%" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=elbaz-youssef&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5e17eb&icon_color=5e17eb&text_color=FFFFFF" width="48%" alt="GitHub Stats">
 </div>
 
 ---
@@ -70,8 +68,8 @@ I build modern, efficient, and well-structured web applications using best pract
 
 | Year                         | Degree                  | Institution               |
 |------------------------------|-------------------------|---------------------------|
-| ![2023](https://img.shields.io/badge/2023-5e17eb?style=for-the-badge&logo=calendar&logoColor=white) | Genie informatique      | EST                   |
-| ![2021](https://img.shields.io/badge/2021-5e17eb?style=for-the-badge&logo=calendar&logoColor=white) | Science physique Baccalauréat | Lycée Sidi moussa el hamri Agadir |
+| ![2023](https://img.shields.io/badge/2023-5e17eb?style=for-the-badge&logo=calendar&logoColor=white) | Génie informatique      | EST                   |
+| ![2021](https://img.shields.io/badge/2021-5e17eb?style=for-the-badge&logo=calendar&logoColor=white) | Science physique Baccalauréat | Lycée Sidi Moussa El Hamri Agadir |
 
 ---
 
@@ -106,7 +104,7 @@ Whether you want to:
   ![Open Source](https://img.shields.io/badge/Open%20Source-purple?style=flat-square&logo=github)  
   Contribute to open-source projects  
 
-Feel free to reach out — I’m always excited to collaborate and learn.
+Feel free to contact me — I’m always excited to collaborate and learn new things.
 
 ---
 
@@ -115,7 +113,7 @@ Feel free to reach out — I’m always excited to collaborate and learn.
 
 
 
-<p align="center">
+<p>
   <a href="mailto:youssef.devworks@gmail.com" title="Send me an email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
